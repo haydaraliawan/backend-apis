@@ -1,5 +1,6 @@
 {
 	"author": "Haydar Ali Awan",
+	"description": "This is second challenge in freecodecamp",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
