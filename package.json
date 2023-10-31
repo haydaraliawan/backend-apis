@@ -2,7 +2,6 @@
 	"author": "Haydar Ali Awan",
 	"description": "This is second challenge in freecodecamp",
 	"keywords": ["freecodecamp"],
-	"license": "MIT",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
